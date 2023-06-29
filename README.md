@@ -1,6 +1,6 @@
 # Gomprehension
 
-**Gomprehension** library simulate a for comprehension and monadic function compositions in golang like the one in other languages like scala or rust
+**Gomprehension** library simulate a [for comprehension](https://edward-huang.com/scala/functional-programming/2021/11/30/why-do-functional-programmers-prefer-for-comprehension-over-imperative-code-block/) and monadic function compositions in golang like the one in other languages like scala or rust
 
 Example you can write this coincise code  and leverage for comprehension.
 This is needed in complex cases when function need to be composed and a function need to access to more than on previous results
